@@ -31,10 +31,6 @@ Critérios de Aceite:
 - Deve tratar erros de forma resiliente.
 
 Acompanhamento de demandas e ordem de priorização
+
 ![Uploading image.png…]()
 
-
-
-
-
-pRIORI
