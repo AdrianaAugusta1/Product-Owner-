@@ -34,4 +34,7 @@ Acompanhamento de demandas e ordem de priorização
 
 <img width="1836" height="377" alt="image" src="https://github.com/user-attachments/assets/43440138-d16c-475b-8722-8ab6c3cf5a53" />
 
+Organização visual do trabalho 
+<img width="1910" height="943" alt="image" src="https://github.com/user-attachments/assets/e7ed280e-536d-409b-a42c-e22003a1b2d7" />
+
 
