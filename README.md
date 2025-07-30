@@ -32,5 +32,6 @@ Critérios de Aceite:
 
 Acompanhamento de demandas e ordem de priorização
 
-![Uploading image.png…]()
+<img width="1836" height="377" alt="image" src="https://github.com/user-attachments/assets/43440138-d16c-475b-8722-8ab6c3cf5a53" />
+
 
